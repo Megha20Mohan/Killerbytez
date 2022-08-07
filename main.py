@@ -10,7 +10,7 @@ from playsound import playsound
 from difflib import SequenceMatcher
 import numpy as np
 import subprocess
-subprocess.Popen(["cmd", "/C", "start whatsapp://send?phone=+918075994774"], shell=True)
+subprocess.Popen(["cmd", "/C", "start whatsapp://send?phone=+91**********"], shell=True)
 
 
 class pranav:
